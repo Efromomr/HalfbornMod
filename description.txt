@@ -1,0 +1,13 @@
+Currently this mod is in alpha stage, so any bugs could be possible.
+
+Halfborn Mod presents terraria players a brand new way to fight enemies - in the monster form. Custom transformation allows you to turn into a mighty demon with powerful abilities. Kill the Wall of Flesh and Plantera to earn more power. Also, the Universal Item helps prehardmode mages a lot. Enjoy!
+
+Mod adds:
++61 items
++4 buffs 
++7 NPCs 
++14 tiles
+
+PS: special thanks to Kostya Treskov for providing some sprites and demon pixel concepts.
+
+Join our discord server: https://discord.gg/W3uRQ5x

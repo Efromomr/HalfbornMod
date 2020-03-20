@@ -1,0 +1,13 @@
+author = Efromomr, CKnight, Meuran, Hastur, Mr. Pigeon, VFD, Nikithn, Avizavul, Dakkharn, Bripe
+version = 0.1.3
+displayName = Halfborn Mod
+
+homepage =  https://forums.terraria.org/index.php?threads/halfborn-mod-custom-demon-transformation-and-other-fancy-staff.86309/
+
+hideResources = false
+
+includeSource = true
+
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+
+includePDB = true
